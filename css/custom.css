@@ -1,0 +1,19 @@
+@media(max-width:500px) {
+	hr {
+		display: none;
+	}
+	a {
+		font-size: 30px;
+	}
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	color:#2d3c49;
+}
+
+.featurework h1 {
+   color:#7d97ad;
+}
+
